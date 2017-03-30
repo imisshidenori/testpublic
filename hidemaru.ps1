@@ -1,3 +1,3 @@
 echo hidemaru
 echo hidemaruhidemaru
-echo hide
+ech hogehoge
